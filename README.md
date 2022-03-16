@@ -11,5 +11,5 @@ Week 1: Introduction to Deep Learning (No important assignment, so not added) <b
 [Week 3](https://github.com/Mansoor-at/Deep-Learning-Specialization-Coursera/tree/main/Neural%20Networks%20and%20Deep%20Learning/Week%203): Shallow Neural Networks <br/>
 [Week 4](https://github.com/Mansoor-at/Deep-Learning-Specialization-Coursera/tree/main/Neural%20Networks%20and%20Deep%20Learning/Week%204): Deep Neural Networks <br/>
 
-## Second Course: NImproving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+## Second Course: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 Coming soon....
